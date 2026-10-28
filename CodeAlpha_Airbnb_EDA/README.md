@@ -91,5 +91,6 @@ The analysis helps identify pricing variation across neighborhoods, compare acco
 The results depend on the supplied dataset and its quality. Observed price differences are descriptive and do not necessarily establish causation, booking demand, or profitability.
 
 ## Author
-Vaibha Dinesh Marathe
-Prepared as part of the CodeAlpha internship project.
+Vaibhav Dinesh Marathe
+Data Analytics Intern, CodeAlpha
+| LinkedIn [www.linkedin.com/in/vaibhavmarathe15] | GitHub [https://github.com/vmarathe1510-cpu/CodeAlpha_Airbnb_EDA]
