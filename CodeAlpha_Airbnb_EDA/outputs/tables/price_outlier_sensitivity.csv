@@ -1,0 +1,2 @@
+valid_price_rows,p99_threshold,rows_above_p99,median_raw,mean_raw,median_capped_p99,mean_capped_p99
+19406,2000.0,194,182.445,310.16560651344946,182.445,288.3363315469442

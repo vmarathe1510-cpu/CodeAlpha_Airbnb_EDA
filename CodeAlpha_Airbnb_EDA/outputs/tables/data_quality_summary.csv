@@ -1,0 +1,2 @@
+rows_loaded,columns_loaded,duplicate_full_rows,missing_expected_fields,missing_listing_id,duplicate_listing_ids,price_missing_or_unparseable,price_zero_or_negative
+29918,90,0,neighbourhood_group,0,0,10512,0

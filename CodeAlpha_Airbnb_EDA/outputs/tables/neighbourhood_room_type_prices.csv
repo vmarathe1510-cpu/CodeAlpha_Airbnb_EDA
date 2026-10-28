@@ -1,0 +1,495 @@
+neighbourhood_cleansed,room_type,listing_count,median_price,mean_price
+Allerton,Entire home/apt,17,135.56,169.7
+Allerton,Private room,17,66.82,138.32
+Arden Heights,Entire home/apt,2,112.04,112.04
+Arrochar,Entire home/apt,8,202.54,284.04
+Arrochar,Private room,2,232.79,232.79
+Arverne,Entire home/apt,37,195.83,321.53
+Arverne,Private room,28,87.85,164.76
+Arverne,Shared room,1,561.57,561.57
+Astoria,Entire home/apt,96,183.66,233.3
+Astoria,Private room,169,89.73,118.53
+Astoria,Shared room,3,437.0,393.03
+Bath Beach,Entire home/apt,7,171.2,155.68
+Bath Beach,Private room,7,216.83,209.7
+Battery Park City,Entire home/apt,14,229.18,399.75
+Battery Park City,Private room,1,124.2,124.2
+Bay Ridge,Entire home/apt,23,150.68,168.13
+Bay Ridge,Private room,59,62.02,94.25
+Bay Ridge,Shared room,1,392.56,392.56
+Bay Terrace,Private room,4,171.16,195.17
+"Bay Terrace, Staten Island",Private room,1,103.0,103.0
+Baychester,Entire home/apt,6,142.24,131.05
+Baychester,Private room,6,163.35,167.23
+Bayside,Entire home/apt,27,157.7,342.92
+Bayside,Private room,17,130.33,221.6
+Bayside,Shared room,1,42.64,42.64
+Bayswater,Entire home/apt,5,113.81,121.31
+Bayswater,Private room,7,62.95,77.66
+Bedford-Stuyvesant,Entire home/apt,548,199.74,251.26
+Bedford-Stuyvesant,Private room,702,81.63,138.59
+Bedford-Stuyvesant,Shared room,35,51.0,162.86
+Belle Harbor,Entire home/apt,5,259.97,248.33
+Belle Harbor,Private room,1,205.0,205.0
+Bellerose,Entire home/apt,9,146.58,178.77
+Bellerose,Private room,2,111.32,111.32
+Belmont,Entire home/apt,3,139.3,147.5
+Belmont,Private room,9,82.3,81.24
+Bensonhurst,Entire home/apt,19,160.17,173.89
+Bensonhurst,Private room,15,66.44,95.19
+Bergen Beach,Entire home/apt,9,256.88,245.55
+Bergen Beach,Private room,16,117.4,150.66
+Bergen Beach,Shared room,1,294.27,294.27
+Boerum Hill,Entire home/apt,45,271.48,345.91
+Boerum Hill,Hotel room,4,455.5,443.5
+Boerum Hill,Private room,16,316.5,366.06
+Boerum Hill,Shared room,1,282.33,282.33
+Borough Park,Entire home/apt,11,118.28,162.49
+Borough Park,Private room,21,62.65,116.23
+Breezy Point,Private room,4,151.18,151.39
+Briarwood,Entire home/apt,8,164.61,152.12
+Briarwood,Private room,12,63.32,79.71
+Brighton Beach,Entire home/apt,21,169.64,173.27
+Brighton Beach,Private room,22,67.66,90.71
+Bronxdale,Entire home/apt,1,177.55,177.55
+Bronxdale,Private room,10,58.32,59.93
+Brooklyn Heights,Entire home/apt,14,285.58,952.27
+Brooklyn Heights,Private room,3,168.9,192.08
+Brownsville,Entire home/apt,30,156.39,213.61
+Brownsville,Private room,41,107.5,167.45
+Brownsville,Shared room,1,280.67,280.67
+Bull's Head,Entire home/apt,3,94.66,190.81
+Bull's Head,Private room,5,181.0,165.34
+Bushwick,Entire home/apt,187,162.48,207.02
+Bushwick,Private room,364,90.88,146.89
+Bushwick,Shared room,7,53.3,138.67
+Cambria Heights,Entire home/apt,20,136.24,156.3
+Cambria Heights,Private room,25,120.0,168.41
+Cambria Heights,Shared room,1,152.0,152.0
+Canarsie,Entire home/apt,72,144.96,168.63
+Canarsie,Private room,96,154.02,174.66
+Canarsie,Shared room,3,167.0,191.78
+Carroll Gardens,Entire home/apt,37,224.93,369.01
+Carroll Gardens,Private room,21,272.0,294.73
+Castle Hill,Entire home/apt,2,157.1,157.1
+Castle Hill,Private room,6,173.25,197.63
+Castleton Corners,Entire home/apt,1,92.07,92.07
+Castleton Corners,Private room,1,297.0,297.0
+Chelsea,Entire home/apt,308,256.1,403.33
+Chelsea,Private room,109,309.0,379.99
+"Chelsea, Staten Island",Entire home/apt,1,73.48,73.48
+Chinatown,Entire home/apt,76,231.4,378.96
+Chinatown,Hotel room,23,543.0,603.48
+Chinatown,Private room,64,349.45,372.68
+Chinatown,Shared room,2,122.85,122.85
+City Island,Entire home/apt,6,123.12,129.05
+City Island,Private room,2,362.75,362.75
+Civic Center,Entire home/apt,4,440.35,1392.05
+Claremont Village,Entire home/apt,5,266.83,262.55
+Claremont Village,Private room,12,98.42,105.76
+Clason Point,Entire home/apt,8,104.58,151.82
+Clason Point,Private room,13,77.79,79.67
+Clifton,Entire home/apt,2,118.53,118.53
+Clifton,Private room,8,91.92,143.27
+Clinton Hill,Entire home/apt,74,199.69,263.45
+Clinton Hill,Private room,61,121.97,189.01
+Co-op City,Entire home/apt,2,90.28,90.28
+Co-op City,Private room,3,46.51,54.11
+Cobble Hill,Entire home/apt,17,341.27,397.49
+Cobble Hill,Private room,3,228.16,254.91
+College Point,Entire home/apt,14,172.97,194.18
+College Point,Private room,21,124.0,126.98
+Columbia St,Entire home/apt,4,368.96,488.22
+Concord,Entire home/apt,3,252.53,213.44
+Concord,Private room,2,70.5,70.5
+Concourse,Entire home/apt,6,128.7,139.01
+Concourse,Private room,22,125.2,127.07
+Concourse Village,Entire home/apt,7,188.87,173.71
+Concourse Village,Hotel room,4,210.0,210.0
+Concourse Village,Private room,12,88.19,100.91
+Coney Island,Entire home/apt,2,191.07,191.07
+Coney Island,Private room,13,66.07,88.53
+Corona,Entire home/apt,8,167.88,209.85
+Corona,Private room,16,113.66,149.2
+Corona,Shared room,4,33.04,51.72
+Country Club,Entire home/apt,1,3907.67,3907.67
+Country Club,Private room,2,141.34,141.34
+Crown Heights,Entire home/apt,292,189.72,341.31
+Crown Heights,Private room,261,86.66,160.13
+Crown Heights,Shared room,6,234.76,257.74
+Cypress Hills,Entire home/apt,42,151.71,228.75
+Cypress Hills,Private room,96,60.32,100.78
+DUMBO,Entire home/apt,11,382.97,463.25
+DUMBO,Private room,1,257.5,257.5
+Ditmars Steinway,Entire home/apt,44,183.61,289.28
+Ditmars Steinway,Private room,69,89.82,135.53
+Dongan Hills,Entire home/apt,1,227.68,227.68
+Douglaston,Entire home/apt,1,129.56,129.56
+Douglaston,Private room,4,77.2,120.5
+Downtown Brooklyn,Entire home/apt,27,224.97,303.14
+Downtown Brooklyn,Private room,22,252.0,335.48
+Dyker Heights,Entire home/apt,3,112.43,618.25
+Dyker Heights,Private room,8,100.16,118.9
+East Elmhurst,Entire home/apt,65,145.63,240.52
+East Elmhurst,Private room,80,103.1,123.77
+East Flatbush,Entire home/apt,157,143.82,188.25
+East Flatbush,Private room,223,92.17,141.87
+East Flatbush,Shared room,1,58.82,58.82
+East Harlem,Entire home/apt,184,175.56,272.83
+East Harlem,Private room,133,99.83,137.43
+East Harlem,Shared room,6,49.24,60.58
+East Morrisania,Entire home/apt,1,128.35,128.35
+East Morrisania,Private room,4,201.9,185.55
+East New York,Entire home/apt,90,158.16,188.27
+East New York,Private room,130,95.49,128.52
+East New York,Shared room,3,102.3,200.58
+East Village,Entire home/apt,234,235.79,361.8
+East Village,Private room,89,133.54,207.45
+East Village,Shared room,1,546.0,546.0
+Eastchester,Entire home/apt,3,124.48,143.33
+Eastchester,Private room,7,116.17,141.3
+Edenwald,Entire home/apt,7,100.93,125.79
+Edenwald,Private room,21,81.2,81.98
+Edgemere,Entire home/apt,6,166.9,231.41
+Edgemere,Private room,6,127.38,169.26
+Elmhurst,Entire home/apt,28,138.32,152.22
+Elmhurst,Private room,97,64.87,73.71
+Eltingville,Entire home/apt,1,111.5,111.5
+Eltingville,Private room,1,184.0,184.0
+Eltingville,Shared room,1,217.0,217.0
+Emerson Hill,Entire home/apt,3,136.43,137.72
+Emerson Hill,Private room,3,108.8,87.47
+Far Rockaway,Entire home/apt,17,154.61,209.84
+Far Rockaway,Private room,21,55.33,95.88
+Fieldston,Entire home/apt,2,191.87,191.87
+Fieldston,Private room,4,92.56,286.83
+Financial District,Entire home/apt,198,560.95,674.96
+Financial District,Hotel room,5,503.21,519.52
+Financial District,Private room,123,608.0,953.71
+Financial District,Shared room,1,143.11,143.11
+Flatbush,Entire home/apt,93,161.9,222.36
+Flatbush,Private room,114,105.46,153.4
+Flatbush,Shared room,2,41.65,41.65
+Flatiron District,Entire home/apt,22,419.4,681.07
+Flatiron District,Hotel room,1,699.0,699.0
+Flatiron District,Private room,29,579.0,603.09
+Flatlands,Entire home/apt,29,155.67,246.15
+Flatlands,Hotel room,7,209.0,230.75
+Flatlands,Private room,46,80.73,116.48
+Flatlands,Shared room,4,147.99,191.02
+Flushing,Entire home/apt,63,142.46,163.18
+Flushing,Private room,149,85.23,119.04
+Flushing,Shared room,7,21.12,71.17
+Fordham,Entire home/apt,3,191.25,172.18
+Fordham,Private room,33,62.92,73.64
+Forest Hills,Entire home/apt,27,143.57,184.63
+Forest Hills,Private room,26,90.69,150.85
+Fort Greene,Entire home/apt,72,227.82,280.21
+Fort Greene,Private room,39,117.53,190.99
+Fort Hamilton,Entire home/apt,72,218.0,225.1
+Fort Hamilton,Private room,19,78.32,144.58
+Fort Hamilton,Shared room,1,67.58,67.58
+Fort Wadsworth,Entire home/apt,1,1025.83,1025.83
+Fresh Meadows,Entire home/apt,4,258.44,853.58
+Fresh Meadows,Private room,18,122.82,155.96
+Fresh Meadows,Shared room,1,136.5,136.5
+Gerritsen Beach,Entire home/apt,2,346.06,346.06
+Gerritsen Beach,Private room,2,183.7,183.7
+Glendale,Entire home/apt,22,144.89,177.92
+Glendale,Private room,25,68.6,83.92
+Gowanus,Entire home/apt,54,238.52,347.53
+Gowanus,Private room,28,175.09,230.89
+Gramercy,Entire home/apt,77,224.0,352.2
+Gramercy,Private room,27,218.0,866.6
+Gramercy,Shared room,1,87.67,87.67
+Graniteville,Entire home/apt,1,81.74,81.74
+Graniteville,Private room,2,98.76,98.76
+Grant City,Entire home/apt,4,98.1,95.6
+Grant City,Private room,7,49.8,66.93
+Gravesend,Entire home/apt,20,114.0,133.64
+Gravesend,Private room,23,88.49,128.07
+Great Kills,Entire home/apt,3,113.2,96.59
+Great Kills,Private room,3,189.0,156.74
+Greenpoint,Entire home/apt,143,281.92,409.09
+Greenpoint,Hotel room,4,512.0,516.75
+Greenpoint,Private room,57,140.26,372.22
+Greenwich Village,Entire home/apt,65,473.87,563.46
+Greenwich Village,Private room,14,449.0,449.04
+Grymes Hill,Entire home/apt,3,239.28,235.48
+Harlem,Entire home/apt,399,206.77,318.61
+Harlem,Hotel room,3,187.0,268.83
+Harlem,Private room,518,84.86,148.57
+Harlem,Shared room,9,79.39,363.67
+Hell's Kitchen,Entire home/apt,673,232.24,338.37
+Hell's Kitchen,Hotel room,38,669.0,822.89
+Hell's Kitchen,Private room,243,290.0,390.51
+Hell's Kitchen,Shared room,1,124.53,124.53
+Highbridge,Entire home/apt,2,106.96,106.96
+Highbridge,Private room,6,70.09,70.48
+Hollis,Entire home/apt,10,111.69,141.55
+Hollis,Private room,8,71.89,92.91
+Hollis Hills,Entire home/apt,1,578.3,578.3
+Holliswood,Entire home/apt,2,253.62,253.62
+Howard Beach,Entire home/apt,10,139.22,183.94
+Howard Beach,Private room,14,157.92,219.87
+Howard Beach,Shared room,1,270.32,270.32
+Howland Hook,Entire home/apt,2,131.24,131.24
+Huguenot,Entire home/apt,2,99.49,99.49
+Huguenot,Private room,2,88.5,88.5
+Hunts Point,Entire home/apt,1,247.91,247.91
+Hunts Point,Private room,15,56.14,69.1
+Inwood,Entire home/apt,24,121.96,201.21
+Inwood,Private room,40,53.58,61.13
+Inwood,Shared room,1,250.5,250.5
+Jackson Heights,Entire home/apt,27,162.31,183.19
+Jackson Heights,Private room,67,86.73,143.74
+Jackson Heights,Shared room,1,46.4,46.4
+Jamaica,Entire home/apt,76,168.24,178.26
+Jamaica,Hotel room,2,143.5,143.5
+Jamaica,Private room,130,112.7,134.79
+Jamaica,Shared room,4,164.76,158.93
+Jamaica Estates,Entire home/apt,8,255.01,259.61
+Jamaica Estates,Private room,18,54.94,76.83
+Jamaica Estates,Shared room,1,110.64,110.64
+Jamaica Hills,Entire home/apt,4,144.34,160.69
+Jamaica Hills,Private room,4,133.44,127.34
+Kensington,Entire home/apt,22,161.94,386.78
+Kensington,Private room,23,64.05,115.16
+Kew Gardens,Entire home/apt,4,157.92,187.36
+Kew Gardens,Private room,11,81.71,108.94
+Kew Gardens Hills,Entire home/apt,10,169.26,203.89
+Kew Gardens Hills,Private room,13,57.99,131.15
+Kingsbridge,Entire home/apt,12,88.6,156.55
+Kingsbridge,Private room,13,59.18,74.03
+Kips Bay,Entire home/apt,166,224.81,288.22
+Kips Bay,Private room,33,261.43,538.21
+Kips Bay,Shared room,1,823.65,823.65
+Laurelton,Entire home/apt,17,184.32,195.19
+Laurelton,Private room,31,90.4,121.37
+Lighthouse Hill,Entire home/apt,2,284.16,284.16
+Little Italy,Entire home/apt,69,209.08,250.33
+Little Italy,Private room,23,565.0,541.99
+Little Neck,Private room,3,109.0,105.33
+Long Island City,Entire home/apt,69,197.3,231.97
+Long Island City,Hotel room,71,476.0,623.24
+Long Island City,Private room,122,132.68,448.18
+Longwood,Entire home/apt,5,167.22,213.67
+Longwood,Private room,24,93.38,556.58
+Lower East Side,Entire home/apt,213,269.67,406.79
+Lower East Side,Hotel room,33,1253.24,1615.65
+Lower East Side,Private room,88,275.58,434.64
+Lower East Side,Shared room,1,3325.0,3325.0
+Manhattan Beach,Entire home/apt,2,156.44,156.44
+Manhattan Beach,Private room,2,99.92,99.92
+Marble Hill,Private room,6,109.1,116.84
+Mariners Harbor,Entire home/apt,7,82.49,88.47
+Mariners Harbor,Private room,11,79.36,93.3
+Mariners Harbor,Shared room,1,110.0,110.0
+Maspeth,Entire home/apt,20,143.5,200.53
+Maspeth,Private room,34,74.42,103.57
+Maspeth,Shared room,1,55.23,55.23
+Melrose,Entire home/apt,6,120.06,141.04
+Melrose,Private room,8,170.75,170.86
+Middle Village,Entire home/apt,9,133.94,193.73
+Middle Village,Private room,6,142.43,217.18
+Midland Beach,Entire home/apt,4,117.93,135.96
+Midland Beach,Private room,3,74.81,96.19
+Midtown,Entire home/apt,800,399.66,554.31
+Midtown,Hotel room,59,848.0,928.99
+Midtown,Private room,561,529.0,707.83
+Midtown,Shared room,1,119.78,119.78
+Midwood,Entire home/apt,9,119.51,180.51
+Midwood,Private room,16,106.26,134.02
+Mill Basin,Entire home/apt,5,215.73,306.74
+Mill Basin,Private room,6,146.16,157.01
+Morningside Heights,Entire home/apt,23,211.8,255.78
+Morningside Heights,Private room,26,87.78,144.64
+Morningside Heights,Shared room,1,27.13,27.13
+Morris Heights,Entire home/apt,5,160.05,167.42
+Morris Heights,Private room,6,89.24,112.65
+Morris Park,Entire home/apt,8,135.52,167.15
+Morris Park,Private room,19,56.17,80.76
+Morrisania,Entire home/apt,2,104.57,104.57
+Morrisania,Private room,5,130.0,157.6
+Mott Haven,Entire home/apt,17,192.0,229.14
+Mott Haven,Private room,27,170.3,164.4
+Mount Eden,Entire home/apt,1,118.84,118.84
+Mount Eden,Private room,3,89.63,99.26
+Mount Hope,Entire home/apt,5,174.1,181.51
+Mount Hope,Private room,29,58.3,77.42
+Murray Hill,Entire home/apt,247,252.59,397.59
+Murray Hill,Hotel room,32,533.5,523.48
+Murray Hill,Private room,72,560.83,893.12
+Navy Yard,Entire home/apt,1,1714.6,1714.6
+Navy Yard,Private room,1,84.27,84.27
+Neponsit,Entire home/apt,2,287.67,287.67
+Neponsit,Private room,1,170.67,170.67
+New Brighton,Entire home/apt,3,132.77,439.2
+New Brighton,Private room,8,119.34,121.45
+New Dorp Beach,Entire home/apt,1,207.12,207.12
+New Dorp Beach,Private room,3,62.99,102.33
+New Springville,Entire home/apt,1,328.07,328.07
+NoHo,Entire home/apt,11,444.53,437.79
+NoHo,Private room,1,330.5,330.5
+Nolita,Entire home/apt,65,235.37,351.97
+Nolita,Private room,9,228.27,334.03
+North Riverdale,Entire home/apt,3,104.33,103.58
+North Riverdale,Private room,2,166.46,166.46
+Norwood,Entire home/apt,8,110.18,133.22
+Norwood,Private room,14,69.83,71.76
+Oakwood,Private room,6,47.14,68.55
+Olinville,Entire home/apt,1,182.91,182.91
+Olinville,Private room,3,49.94,51.07
+Ozone Park,Entire home/apt,30,115.48,131.19
+Ozone Park,Private room,29,101.31,257.64
+Park Slope,Entire home/apt,75,216.83,332.92
+Park Slope,Private room,48,181.26,214.98
+Parkchester,Entire home/apt,9,132.67,165.63
+Parkchester,Private room,10,97.21,118.86
+Pelham Bay,Entire home/apt,2,170.08,170.08
+Pelham Gardens,Entire home/apt,9,121.11,180.1
+Pelham Gardens,Private room,19,64.33,96.38
+Port Morris,Entire home/apt,18,210.5,201.67
+Port Morris,Private room,7,169.63,152.91
+Port Richmond,Entire home/apt,2,72.46,72.46
+Port Richmond,Private room,4,74.16,125.05
+Prince's Bay,Entire home/apt,3,119.82,127.33
+Prince's Bay,Private room,1,371.0,371.0
+Prospect Heights,Entire home/apt,40,294.74,479.62
+Prospect Heights,Private room,25,146.64,249.24
+Prospect-Lefferts Gardens,Entire home/apt,75,164.96,200.74
+Prospect-Lefferts Gardens,Private room,73,93.93,137.86
+Prospect-Lefferts Gardens,Shared room,2,122.18,122.18
+Queens Village,Entire home/apt,32,140.43,213.13
+Queens Village,Private room,25,124.0,131.78
+Randall Manor,Entire home/apt,6,132.51,140.78
+Randall Manor,Private room,16,77.63,106.49
+Red Hook,Entire home/apt,16,235.02,304.01
+Red Hook,Private room,7,167.67,206.17
+Rego Park,Entire home/apt,13,170.04,182.67
+Rego Park,Private room,25,80.77,119.2
+Rego Park,Shared room,1,38.33,38.33
+Richmond Hill,Entire home/apt,20,148.43,195.65
+Richmond Hill,Private room,56,72.1,115.15
+Richmond Hill,Shared room,1,117.83,117.83
+Ridgewood,Entire home/apt,40,154.28,206.3
+Ridgewood,Private room,94,67.79,100.28
+Riverdale,Entire home/apt,3,220.0,721.26
+Rockaway Beach,Entire home/apt,27,162.1,167.97
+Rockaway Beach,Private room,11,147.5,178.19
+Rockaway Beach,Shared room,1,309.27,309.27
+Roosevelt Island,Entire home/apt,8,239.53,470.03
+Roosevelt Island,Private room,9,115.7,155.17
+Rosebank,Entire home/apt,2,106.24,106.24
+Rosebank,Private room,4,104.7,104.61
+Rosebank,Shared room,1,92.86,92.86
+Rosedale,Entire home/apt,47,148.26,183.38
+Rosedale,Private room,38,128.2,169.63
+Rosedale,Shared room,1,107.37,107.37
+Rossville,Entire home/apt,2,101.08,101.08
+Schuylerville,Entire home/apt,4,93.28,136.22
+Schuylerville,Private room,1,128.2,128.2
+Sea Gate,Entire home/apt,13,147.13,297.0
+Sea Gate,Private room,3,187.67,181.11
+Sheepshead Bay,Entire home/apt,40,135.1,204.28
+Sheepshead Bay,Private room,46,97.95,134.15
+Shore Acres,Entire home/apt,3,88.03,94.27
+Shore Acres,Private room,2,154.42,154.42
+Silver Lake,Entire home/apt,1,117.15,117.15
+SoHo,Entire home/apt,84,445.1,601.53
+SoHo,Hotel room,12,484.0,631.26
+SoHo,Private room,46,592.0,612.98
+Soundview,Entire home/apt,1,285.88,285.88
+Soundview,Private room,10,87.44,109.77
+South Beach,Entire home/apt,4,102.28,93.54
+South Beach,Private room,3,76.84,79.7
+South Ozone Park,Entire home/apt,19,182.53,189.37
+South Ozone Park,Private room,37,181.0,208.37
+South Ozone Park,Shared room,2,163.89,163.89
+South Slope,Entire home/apt,48,207.4,268.36
+South Slope,Private room,17,141.15,216.58
+Springfield Gardens,Entire home/apt,53,186.67,221.8
+Springfield Gardens,Private room,61,127.0,147.6
+Springfield Gardens,Shared room,1,227.67,227.67
+Spuyten Duyvil,Entire home/apt,2,230.39,230.39
+Spuyten Duyvil,Private room,1,205.43,205.43
+St. Albans,Entire home/apt,36,133.5,165.67
+St. Albans,Private room,59,121.69,135.67
+St. Albans,Shared room,1,90.87,90.87
+St. George,Entire home/apt,14,138.9,161.7
+St. George,Private room,12,88.04,113.8
+Stapleton,Entire home/apt,3,174.22,180.58
+Stapleton,Private room,8,98.96,123.38
+Stuyvesant Town,Entire home/apt,11,277.72,349.29
+Stuyvesant Town,Private room,4,140.02,324.98
+Sunnyside,Entire home/apt,46,161.06,204.53
+Sunnyside,Private room,88,89.08,117.16
+Sunset Park,Entire home/apt,46,163.06,272.04
+Sunset Park,Hotel room,24,297.5,366.92
+Sunset Park,Private room,104,103.96,162.31
+Sunset Park,Shared room,1,315.0,315.0
+Theater District,Entire home/apt,86,576.62,586.61
+Theater District,Hotel room,24,755.71,718.58
+Theater District,Private room,163,499.0,653.21
+Throgs Neck,Entire home/apt,18,178.8,181.49
+Throgs Neck,Private room,9,105.04,93.92
+Todt Hill,Private room,1,136.21,136.21
+Tompkinsville,Entire home/apt,13,134.01,135.08
+Tompkinsville,Private room,19,79.4,159.22
+Tottenville,Entire home/apt,3,219.1,203.91
+Tottenville,Private room,1,161.0,161.0
+Tremont,Entire home/apt,1,100.54,100.54
+Tremont,Private room,6,115.56,111.06
+Tribeca,Entire home/apt,42,609.98,1771.3
+Tribeca,Hotel room,7,995.0,1102.57
+Tribeca,Private room,24,596.35,638.78
+Two Bridges,Entire home/apt,11,152.46,235.98
+Two Bridges,Private room,9,144.77,256.21
+Unionport,Entire home/apt,7,164.73,220.5
+Unionport,Private room,5,155.08,160.64
+University Heights,Entire home/apt,6,118.88,193.61
+Upper East Side,Entire home/apt,723,213.57,330.42
+Upper East Side,Hotel room,31,3226.0,4151.35
+Upper East Side,Private room,65,120.67,220.61
+Upper East Side,Shared room,2,88.14,88.14
+Upper West Side,Entire home/apt,453,218.03,338.66
+Upper West Side,Hotel room,44,859.3,1050.57
+Upper West Side,Private room,215,113.78,268.15
+Upper West Side,Shared room,14,38.35,44.24
+Van Nest,Entire home/apt,5,135.73,224.42
+Van Nest,Private room,4,172.42,149.46
+Vinegar Hill,Entire home/apt,12,282.24,382.36
+Vinegar Hill,Private room,2,160.48,160.48
+Wakefield,Entire home/apt,14,165.16,259.31
+Wakefield,Private room,33,80.4,101.52
+Washington Heights,Entire home/apt,64,156.72,190.81
+Washington Heights,Private room,136,66.73,87.2
+West Brighton,Entire home/apt,8,99.92,101.03
+West Brighton,Private room,12,61.3,78.73
+West Farms,Entire home/apt,3,212.1,262.37
+West Farms,Private room,2,125.28,125.28
+West Village,Entire home/apt,152,311.09,492.14
+West Village,Private room,17,458.0,822.69
+Westchester Square,Entire home/apt,2,122.5,122.5
+Westchester Square,Private room,1,53.81,53.81
+Westerleigh,Entire home/apt,4,209.0,287.68
+Westerleigh,Private room,2,159.62,159.62
+Whitestone,Entire home/apt,7,149.77,183.93
+Whitestone,Private room,8,106.44,110.21
+Williamsbridge,Entire home/apt,15,108.43,111.32
+Williamsbridge,Private room,12,54.28,79.89
+Williamsburg,Entire home/apt,345,219.45,309.15
+Williamsburg,Hotel room,1,864.03,864.03
+Williamsburg,Private room,317,150.5,247.22
+Williamsburg,Shared room,6,50.64,75.94
+Willowbrook,Entire home/apt,1,241.23,241.23
+Windsor Terrace,Entire home/apt,33,192.14,255.21
+Windsor Terrace,Private room,15,153.91,178.34
+Woodhaven,Entire home/apt,15,114.9,141.05
+Woodhaven,Private room,44,62.25,98.42
+Woodhaven,Shared room,1,157.69,157.69
+Woodlawn,Entire home/apt,6,114.36,121.77
+Woodlawn,Private room,3,71.0,146.78
+Woodrow,Private room,2,62.8,62.8
+Woodside,Entire home/apt,27,137.23,265.8
+Woodside,Private room,107,65.33,84.88
